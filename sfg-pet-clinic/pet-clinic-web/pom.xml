@@ -13,11 +13,11 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
 
-        <webjars-bootstrap.version>5.3.3</webjars-bootstrap.version>
+        <webjars-bootstrap.version>3.3.6</webjars-bootstrap.version>
         <font-awesome.version>4.7.0</font-awesome.version>
         <jquery.version>3.4.1</jquery.version>
         <jquery-ui.version>1.13.0</jquery-ui.version>
-        <wro4j.version>1.8.0</wro4j.version>
+        <wro4j.version>2.1.1</wro4j.version>
 
         <jacoco.version>0.8.5</jacoco.version>
         <node.version>v8.11.1</node.version>
@@ -86,7 +86,6 @@
             <artifactId>font-awesome</artifactId>
             <version>${font-awesome.version}</version>
         </dependency>
-
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
