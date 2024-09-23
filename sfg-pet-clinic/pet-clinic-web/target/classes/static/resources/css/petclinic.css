@@ -6779,7 +6779,6 @@ strong {
   height: 46px;
   display: inline-block;
   text-decoration: none;
-  padding: 0;
 }
 .navbar a.navbar-brand span {
   display: block;
@@ -6871,6 +6870,7 @@ strong {
 }
 .nav > li > a {
   color: #838789;
+  background-color: !important red;
 }
 .btn-default {
   border-width: 2px;

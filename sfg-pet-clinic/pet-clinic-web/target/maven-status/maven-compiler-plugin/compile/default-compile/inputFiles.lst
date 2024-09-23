@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\bootstrap\DataLoader.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\OwnerController.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\IndexController.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\SfgPetClinicApplication.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\VetController.java
-=======
-D:\springframework2024\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\IndexController.java
-D:\springframework2024\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\VetController.java
-D:\springframework2024\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\bootstrap\DataLoader.java
-D:\springframework2024\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\SfgPetClinicApplication.java
-D:\springframework2024\Pet-Clinic\sfg-pet-clinic\pet-clinic-web\src\main\java\guru\springframework\sfgpetclinic\controllers\OwnerController.java
->>>>>>> 8ceb70da2a5f5d1c36fbda8615012c90c66061c8
