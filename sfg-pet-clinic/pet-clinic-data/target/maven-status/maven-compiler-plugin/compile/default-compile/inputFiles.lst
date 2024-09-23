@@ -4,11 +4,17 @@ D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\sr
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\OwnerService.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Person.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\PetType.java
+D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\PetTypeService.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\VetService.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\AbstractMapService.java
+D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Visit.java
+D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\SpecialityMapService.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\VetServiceMap.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Owner.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\CrudService.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\PetService.java
+D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\SpecialityService.java
+D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\PetTypeMapService.java
+D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Speciality.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Pet.java
 D:\Programming\John-Thompson-Spring\Pet-Clinic\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\OwnerServiceMap.java
