@@ -14,6 +14,10 @@ import java.util.Set;
 public class VetSDJpaService implements VetService {
     private VetRepository vetRepository;
 
+    public VetSDJpaService(VetRepository vetRepository) {
+        this.vetRepository = vetRepository;
+    }
+
     @Override
     public Set<Vet> findAll() {
         Set<Vet> vets = new HashSet<>();
