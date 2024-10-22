@@ -22,14 +22,14 @@ class OwnerServiceMapTest {
     }
 
     @Test
-    void findAll() {
+    void findAllTest() {
         Set<Owner> all = ownerServiceMap.findAll();
 
         assertEquals(1, all.size());
     }
 
     @Test
-    void saveExistingId() {
+    void saveExistingIdTest() {
         Long id = 2L;
         Owner owner2 = Owner.builder().id(id).build();
         Owner savedOwner2 = ownerServiceMap.save(owner2);
@@ -38,7 +38,7 @@ class OwnerServiceMapTest {
     }
 
     @Test
-    void saveNonExistingId() {
+    void saveNonExistingIdTest() {
         Owner owner = Owner.builder().build();
 
         Owner save = ownerServiceMap.save(owner);
@@ -48,14 +48,14 @@ class OwnerServiceMapTest {
 
 
     @Test
-    void delete() {
+    void deleteTest() {
         ownerServiceMap.delete(ownerServiceMap.findById(ownerId));
 
         assertEquals(0, ownerServiceMap.findAll().size());
     }
 
     @Test
-    void deleteById() {
+    void deleteByIdTest() {
         ownerServiceMap.deleteById(ownerId);
 
         assertEquals(0, ownerServiceMap.findAll().size());
@@ -65,8 +65,8 @@ class OwnerServiceMapTest {
     @Test
     void findById() {
         Owner byId = ownerServiceMap.findById(ownerId);
-
-        assertEquals(1, byId.getId());
+        long id = 1;
+        assertEquals(id, byId.getId().longValue());
     }
 
     @Test

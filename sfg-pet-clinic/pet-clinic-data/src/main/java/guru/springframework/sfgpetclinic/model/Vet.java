@@ -1,6 +1,6 @@
 package guru.springframework.sfgpetclinic.model;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
 
 import java.util.HashSet;
